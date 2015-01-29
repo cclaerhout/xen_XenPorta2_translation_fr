@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Français - Source" date_format="j F Y" time_format="H:i" decimal_point="." thousands_separator="" language_code="fr-FR" text_direction="LTR" addon_id="EWRporta2">
+  <phrase title="admin_navigation_porta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[XenPorta 2 PRO]]></phrase>
+  <phrase title="admin_navigation_porta2_categories" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Catégories]]></phrase>
+  <phrase title="admin_navigation_porta2_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mise en page]]></phrase>
+  <phrase title="admin_navigation_porta2_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Options]]></phrase>
+  <phrase title="admin_navigation_porta2_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widgets]]></phrase>
+  <phrase title="admin_navigation_porta2_widopts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[- Série d'options]]></phrase>
+  <phrase title="option_EWRporta2_articles_dateblock" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher la date à proximité de l'extrait]]></phrase>
+  <phrase title="option_EWRporta2_articles_dateblock_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si activé, un petit bloc avec la date sera affiché à proximité de l'extrait de l'article.]]></phrase>
+  <phrase title="option_EWRporta2_articles_excerpt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Couper l'extrait]]></phrase>
+  <phrase title="option_EWRporta2_articles_excerpt_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les extraits seront coupés à partir de ce nombre de signes si aucune balise Bb Code [prebreak] n'est trouvé. Entrez 0 pour éviter toute coupure]]></phrase>
+  <phrase title="option_EWRporta2_articles_exclude" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Exclure de la liste des articles les discussions valorisées]]></phrase>
+  <phrase title="option_EWRporta2_articles_exclude_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si activé, toutes discussions ayant été valorisées dans la visionneuse seront retirées de la liste des articles.]]></phrase>
+  <phrase title="option_EWRporta2_articles_fullsize" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher les icônes en plein format]]></phrase>
+  <phrase title="option_EWRporta2_articles_fullsize_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si activé, les icônes des articles seront affichées en plein format au lieu de leurs miniatures.]]></phrase>
+  <phrase title="option_EWRporta2_articles_limit" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Limite d'articles]]></phrase>
+  <phrase title="option_EWRporta2_articles_limit_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Nombre maximum d'articles à afficher sur chacune des pages d'actualité.]]></phrase>
+  <phrase title="option_EWRporta2_articles_masonry" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Utiliser la grille "Masonry"]]></phrase>
+  <phrase title="option_EWRporta2_articles_masonry_explain" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Si activé, la mise en page adoptera le format multi colonnes inspiré de "Mansory"]]></phrase>
+  <phrase title="option_EWRporta2_articles_permissions" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Ignorer les permissions dans la liste d'articles]]></phrase>
+  <phrase title="option_EWRporta2_articles_permissions_explain" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Quelque que soit le groupe d'utilisateurs auquel appartient le visiteur, ce dernier pourra accéder à la liste des articles.]]></phrase>
+  <phrase title="option_EWRporta2_articles_scroll" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Activer le défilement continu]]></phrase>
+  <phrase title="option_EWRporta2_articles_scroll_explain" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Une fois le défilement arrivé en pied de page, les pages suivantes seront automatiquement chargées.]]></phrase>
+  <phrase title="option_EWRporta2_articles_stripnl" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Expurger l'extrait de tout retour chariot]]></phrase>
+  <phrase title="option_EWRporta2_articles_stripnl_explain" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Si activé, l'extrait du texte ne comprendra plus aucun retour chariot et apparaîtra ainsi comme un paragraphe unique et compact.]]></phrase>
+  <phrase title="option_EWRporta2_breakout" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Masquer les barres de navigation et de titre]]></phrase>
+  <phrase title="option_EWRporta2_breakout_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La barre de navigation et celle de titre seront masquées sur la page d'index des articles.]]></phrase>
+  <phrase title="option_EWRporta2_classes" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer le cadriciel des widgets]]></phrase>
+  <phrase title="option_EWRporta2_classes_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Seules les classes sélectionnées seront étendues dans le cadriel des widgets. Désactivez les pour économiser des requêtes envoyées à la base de données.]]></phrase>
+  <phrase title="option_EWRporta2_feature_height" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Hauteur de l'encart des éléments valorisés]]></phrase>
+  <phrase title="option_EWRporta2_feature_height_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les éléments valorisés verront les dimensions de leurs images téléversées réduites selon cette taille maximale.]]></phrase>
+  <phrase title="option_EWRporta2_feature_width" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Largeur de l'encart des éléments valorisés]]></phrase>
+  <phrase title="option_EWRporta2_feature_width_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_features_auto" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Fréquence]]></phrase>
+  <phrase title="option_EWRporta2_features_auto_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Fréquence en millisecondes à laquelle le carousselle se renouvellera automatiquement. (0 pour désactiver)]]></phrase>
+  <phrase title="option_EWRporta2_features_excerpt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Couper l'extrait]]></phrase>
+  <phrase title="option_EWRporta2_features_excerpt_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les extrait seront coupés une fois que ce nombre maximum de caractères aura été atteint. (0 pour désactiver)]]></phrase>
+  <phrase title="option_EWRporta2_features_height" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Correctif de hauteur]]></phrase>
+  <phrase title="option_EWRporta2_features_height_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La hauteur des vignettes sera normalisée suivant celle entrée, qu'importe la hauteur originale des images.]]></phrase>
+  <phrase title="option_EWRporta2_features_limit" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Limite des éléments valorisés dans la visionneuse]]></phrase>
+  <phrase title="option_EWRporta2_features_limit_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Nombre maximal d'élements valorisés dans la visionneuse affichée sur la page d'index des articles. (0 pour désactiver)]]></phrase>
+  <phrase title="option_EWRporta2_features_mode" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mode transitoire]]></phrase>
+  <phrase title="option_EWRporta2_features_mode_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_features_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Options]]></phrase>
+  <phrase title="option_EWRporta2_features_options_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_features_relocate" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Relocaliser la visionneuse]]></phrase>
+  <phrase title="option_EWRporta2_features_relocate_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous pouvez définir ici un élément CSS et la visionneuse sera déplacée juste avant celui-ci.]]></phrase>
+  <phrase title="option_EWRporta2_features_sections" addon_id="EWRporta2" version_id="6" version_string="1.0.6"><![CDATA[Sections]]></phrase>
+  <phrase title="option_EWRporta2_features_sections_explain" addon_id="EWRporta2" version_id="6" version_string="1.0.6"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_features_speed" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vitesse]]></phrase>
+  <phrase title="option_EWRporta2_features_speed_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La vitesse en millisecondes à laquelle doivent s'enchaîner les transitions.]]></phrase>
+  <phrase title="option_EWRporta2_promote_24hour" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser le système horaire sur 24 heures ?]]></phrase>
+  <phrase title="option_EWRporta2_promote_24hour_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Affiche l'heure sur 24 heures lors de la sélection de la date et l'heure des promotions.]]></phrase>
+  <phrase title="option_EWRporta2_promote_autoforums" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Auto-promotion des forums]]></phrase>
+  <phrase title="option_EWRporta2_promote_autoforums_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les dicussions de ces forums apparaîtront automatiquement sous la forme d'articles. Les paramètres par défault des articles seront utilisés. Le recours à cette option aura une légère répercution sur les performances.]]></phrase>
+  <phrase title="option_EWRporta2_promote_defaults" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Paramètres par défaut des articles]]></phrase>
+  <phrase title="option_EWRporta2_promote_defaults_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_promote_disqus" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Commentaires Disqus]]></phrase>
+  <phrase title="option_EWRporta2_promote_disqus_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[A fin de pouvoir utiliser Disqus, vous devez configurer votre <a href="https://disqus.com/admin/create/" target="_blank">compte Disqus</a>.]]></phrase>
+  <phrase title="option_EWRporta2_promote_facebook" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Commentaires Facebook]]></phrase>
+  <phrase title="option_EWRporta2_promote_facebook_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_promote_iconsearch" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Activer la recherche des icônes de promotion]]></phrase>
+  <phrase title="option_EWRporta2_promote_iconsearch_explain" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Si un article n'a pas d'icône de promotion, le système lui en attribera une automatiquement.]]></phrase>
+  <phrase title="option_EWRporta2_promote_image" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Activer les images externes]]></phrase>
+  <phrase title="option_EWRporta2_promote_image_explain" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Cette option vous permettra d'utiliser toute image incluse par la balise [IMG] comme icône de promotion.]]></phrase>
+  <phrase title="option_EWRporta2_promote_timezone" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Promotion par fuseaux horaires]]></phrase>
+  <phrase title="option_EWRporta2_promote_timezone_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_EWRporta2_promote_wysiwyg" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer l'éditeur WYSIWYG]]></phrase>
+  <phrase title="option_EWRporta2_promote_wysiwyg_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous pouvez choisir de désactiver l'éditeur WYSIWYG lors des promotions.]]></phrase>
+  <phrase title="option_EWRporta2_style" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Passer outre le style choisi par l'utilisateur]]></phrase>
+  <phrase title="option_EWRporta2_style_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si vous utilisez cette option, tous les visiteurs verront s'afficher le style que vous aurez choisi lorsqu'ils voudront lire les articles.]]></phrase>
+  <phrase title="option_EWRporta2_views" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Extensions au contrôleur ViewPublic]]></phrase>
+  <phrase title="option_EWRporta2_views_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous pouvez définir ici des classes pour étendre le cadriel des widgets. Chaque classe doit être séparée par un retour à la ligne.<br/>
+Cette option doit être utilisée en connaissance de cause, ne l'utilisez pas si vous avez le moindre doute !]]></phrase>
+  <phrase title="option_group_EWRporta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
+  <phrase title="option_group_EWRporta2_description" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
+  <phrase title="permission_EWRporta2_canAdmin" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut administrer le portail]]></phrase>
+  <phrase title="permission_EWRporta2_canArrange" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut configurer les widgets]]></phrase>
+  <phrase title="permission_EWRporta2_canFilter" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut filtrer les catégories]]></phrase>
+  <phrase title="permission_EWRporta2_canModerate" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut modérer les articles]]></phrase>
+  <phrase title="permission_EWRporta2_canPromote" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut promouvoir les articles]]></phrase>
+  <phrase title="permission_EWRporta2_canTag" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut tagger les articles]]></phrase>
+  <phrase title="permission_EWRporta2_canTags" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Peut créer des tags]]></phrase>
+  <phrase title="permission_group_EWRporta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
+  <phrase title="permission_interface_EWRporta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
+  <phrase title="porta2_add_new_author" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un nouvel auteur]]></phrase>
+  <phrase title="porta2_add_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un lien widget]]></phrase>
+  <phrase title="porta2_add_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un jeu d'options]]></phrase>
+  <phrase title="porta2_arrange_article_list_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Gestion des widgets des articles]]></phrase>
+  <phrase title="porta2_arrange_article_list_widgets_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si vous activez cette option, vous pourrez personnaliser la mise en forme de la page d'index des articles en utilisant simplement l'interface glisser-déposer. Tous les widgets seront ou non déplaçables selon les choix effectués par notre équipe technique. En revanche, la zone principale de contenu restera quant à elle fixe.]]></phrase>
+  <phrase title="porta2_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Article]]></phrase>
+  <phrase title="porta2_article_categories" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Catégories des articles]]></phrase>
+  <phrase title="porta2_article_no_tags" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[cet article n'a aucun tag]]></phrase>
+  <phrase title="porta2_article_settings" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Articles - paramètres]]></phrase>
+  <phrase title="porta2_article_tags" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Articles - tags]]></phrase>
+  <phrase title="porta2_article_tools" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Articles - outils]]></phrase>
+  <phrase title="porta2_articles" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Articles]]></phrase>
+  <phrase title="porta2_author" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Auteur]]></phrase>
+  <phrase title="porta2_author_image" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Auteur -image]]></phrase>
+  <phrase title="porta2_author_image_fail" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Echec du téléversement et de la conversion de l'image de l'auteur.]]></phrase>
+  <phrase title="porta2_author_image_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les images seront redimensionnées ainsi : 150px (largeur) x 200px (hauteur).]]></phrase>
+  <phrase title="porta2_author_profile_for_user_exists" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Cet utilisateur possède déjà un profil comme auteur.]]></phrase>
+  <phrase title="porta2_authors" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Auteurs]]></phrase>
+  <phrase title="porta2_authors_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les contributeurs grâce auxquels vous devez une partie de site.]]></phrase>
+  <phrase title="porta2_base_class" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Classe de base]]></phrase>
+  <phrase title="porta2_base_class_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si la classe de base existe, le cadriciel des widgets cherchera les fonctions optionelles suivantes :]]></phrase>
+  <phrase title="porta2_base_class_hint_extra" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La fonction <b>getCachedData</b> sera uniquement exécutée lorsque le cache des widgets arrivera à expiration et si celui-ci a été défini.<br />
+La fonction <b>getUncachedData</b> sera exécutée à chaque fois que le widget sera chargé et ce, quelque soient les paramètres du cache.]]></phrase>
+  <phrase title="porta2_base_template" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Template de base]]></phrase>
+  <phrase title="porta2_base_template_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Tout template maître avec ce préfixe sera automatiquement inclus lors de l'exportation du widget.<br/>
+De même pour les expressions maitresses ainsi que les observateurs d'événement, si les descriptions de ces derniers commencent par ce texte.]]></phrase>
+  <phrase title="porta2_base_template_hint_extra" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Tout widget sera construit avec ces paramètres lesquels seront directement accessibles dans le template.]]></phrase>
+  <phrase title="porta2_base_template_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Template de base non trouvé]]></phrase>
+  <phrase title="porta2_base_template_not_found_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ce widget ne s'affichera pas correctement si vous ne créez pas d'abord un template de base.]]></phrase>
+  <phrase title="porta2_break" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Texte de césure]]></phrase>
+  <phrase title="porta2_break_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ce texte de césure est optionnel et n'est pas visible dans l'article.]]></phrase>
+  <phrase title="porta2_break_text_default" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Lire la suite]]></phrase>
+  <phrase title="porta2_by_x_on_y" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Par {name} le {date}]]></phrase>
+  <phrase title="porta2_by_x_on_y_at_z" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[par {user} : le {date} à {time}]]></phrase>
+  <phrase title="porta2_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Categorie]]></phrase>
+  <phrase title="porta2_change_article_list_settings" addon_id="EWRporta2" version_id="6" version_string="1.0.6"><![CDATA[Modifier les paramètres de la liste d'articles]]></phrase>
+  <phrase title="porta2_clear_widget_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le cache des widgets]]></phrase>
+  <phrase title="porta2_clear_widopt_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le cache des jeux d'options]]></phrase>
+  <phrase title="porta2_confirm_clearance_of_widget_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la remise à zéro du cache des widgets]]></phrase>
+  <phrase title="porta2_confirm_clearance_of_widopt_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la remise à zéro des jeux d'options]]></phrase>
+  <phrase title="porta2_confirm_deletion_of_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la suppression de la catégorie]]></phrase>
+  <phrase title="porta2_confirm_deletion_of_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la suppression du modèle de mise en page]]></phrase>
+  <phrase title="porta2_confirm_deletion_of_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la suppression du widget]]></phrase>
+  <phrase title="porta2_confirm_deletion_of_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la suppression du lien de widget]]></phrase>
+  <phrase title="porta2_confirm_deletion_of_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Confirmer la supression du jeu d'options]]></phrase>
+  <phrase title="porta2_copy_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Copier la mise en page]]></phrase>
+  <phrase title="porta2_copy_layout_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sélectionner une mise en page existante dupliquera tous les liens de widget de celle-ci vers la nouvelle mise en page.]]></phrase>
+  <phrase title="porta2_create_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer une catégorie]]></phrase>
+  <phrase title="porta2_create_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer une mise en page]]></phrase>
+  <phrase title="porta2_create_new_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer une nouvelle catégorie]]></phrase>
+  <phrase title="porta2_create_new_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer une nouvelle mise en page]]></phrase>
+  <phrase title="porta2_create_new_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un nouveau widget]]></phrase>
+  <phrase title="porta2_create_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un widget]]></phrase>
+  <phrase title="porta2_create_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un jeu d'options]]></phrase>
+  <phrase title="porta2_customized_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mise en page personnalisées]]></phrase>
+  <phrase title="porta2_date_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les articles sont triés par date de promotion. Les articles peuvent être post-datés.]]></phrase>
+  <phrase title="porta2_default_icon" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Icône par défaut]]></phrase>
+  <phrase title="porta2_delete_article_promotion" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Supprimer la promotion de l'article]]></phrase>
+  <phrase title="porta2_delete_article_promotion_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Êtes-vous certain de vouloir supprimer la promotion de cette article ?]]></phrase>
+  <phrase title="porta2_delete_author" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Supprimer l'auteur]]></phrase>
+  <phrase title="porta2_delete_author_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Êtes-vous certain de vouloir supprimer cet auteur ? Aucun contenu ne sera supprimé, mais seulement le profil et la signature de l'auteur.]]></phrase>
+  <phrase title="porta2_delete_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Supprimer la catégorie]]></phrase>
+  <phrase title="porta2_delete_feature_promotion" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Supprimer la promotion du contenu valorisé]]></phrase>
+  <phrase title="porta2_delete_feature_promotion_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Êtes-vous certain de vouloir supprimer la promotion de ce contenu valorisé ?]]></phrase>
+  <phrase title="porta2_delete_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer la mise en page]]></phrase>
+  <phrase title="porta2_delete_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le widget]]></phrase>
+  <phrase title="porta2_delete_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le lien de widget]]></phrase>
+  <phrase title="porta2_delete_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le jeu d'options]]></phrase>
+  <phrase title="porta2_disable_icon" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Désactiver l'icône]]></phrase>
+  <phrase title="porta2_disable_infinite_scroll" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Désactiver le défilement continu]]></phrase>
+  <phrase title="porta2_disable_infinite_scroll_hint" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Une fois le défilement arrivé en pied de page, la page suivante ne sera plus automatiquement chargée.]]></phrase>
+  <phrase title="porta2_disabled_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widgets désactivés]]></phrase>
+  <phrase title="porta2_display_name" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Affiché le nom]]></phrase>
+  <phrase title="porta2_disqus_comments" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Commentaires Disqus]]></phrase>
+  <phrase title="porta2_edit_article_promotion" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer la promotion de l'article]]></phrase>
+  <phrase title="porta2_edit_categories" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer les catégories]]></phrase>
+  <phrase title="porta2_edit_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer la catégorie]]></phrase>
+  <phrase title="porta2_edit_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer la mise en page]]></phrase>
+  <phrase title="porta2_edit_layout_grid" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer la grille de la mise en page]]></phrase>
+  <phrase title="porta2_edit_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer le widget]]></phrase>
+  <phrase title="porta2_edit_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer le lien de widget]]></phrase>
+  <phrase title="porta2_edit_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Éditer le jeu d'options]]></phrase>
+  <phrase title="porta2_enable_arranging" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer l'arrangement]]></phrase>
+  <phrase title="porta2_enable_article_mode" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer la mise en forme personnalisée des articles]]></phrase>
+  <phrase title="porta2_enable_caching_of_data" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer le cache des données]]></phrase>
+  <phrase title="porta2_enable_caching_of_data_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer le cache pour un widget peut aider à économiser des ressources serveur.<br />Cependant, les widgets qui ont besoin d'accéder à des informations sensibles, ou à caractère unique, ne doivent pas être mis en cache.]]></phrase>
+  <phrase title="porta2_enable_caching_of_data_none" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ce widget ne peut être mis en cache car aucune fonction <b>getCachedData</b> n'a été définie.]]></phrase>
+  <phrase title="porta2_enable_comments_mode" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer la mise en forme personnalisée des commentaires]]></phrase>
+  <phrase title="porta2_enable_disqus" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer les commentaires Disqus]]></phrase>
+  <phrase title="porta2_enable_facebook" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer les commentaires Facebook]]></phrase>
+  <phrase title="porta2_enable_filtering" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer le filtrage]]></phrase>
+  <phrase title="porta2_enable_local" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Activer les commentaires locaux]]></phrase>
+  <phrase title="porta2_equality" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Égalité]]></phrase>
+  <phrase title="porta2_evaluation" addon_id="EWRporta2" version_id="1" version_string="1.0.1"><![CDATA[Évaluation]]></phrase>
+  <phrase title="porta2_evaluation_hint" addon_id="EWRporta2" version_id="1" version_string="1.0.1"><![CDATA[Ces paramètres optionels définissent sous quelles conditions la mise en page sera structurée.]]></phrase>
+  <phrase title="porta2_excerpt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Texte d'extrait]]></phrase>
+  <phrase title="porta2_excerpt_custom" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser un extrait de texte personnalisé]]></phrase>
+  <phrase title="porta2_excerpt_default" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser le texte par défaut de l'article]]></phrase>
+  <phrase title="porta2_excerpt_fail" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous avez choisi d'utiliser un extrait de texte personnalisé, mais n'avez soumis aucun texte.]]></phrase>
+  <phrase title="porta2_excerpt_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si vous utilisez un extrait personnalisé, le texte ci-dessous sera alors affiché sur la page d'index des articles.]]></phrase>
+  <phrase title="porta2_exclude_from_article_index" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Exclure de la page d'index des articles]]></phrase>
+  <phrase title="porta2_exclude_from_article_index_hint" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[L'affichage ne sera pas sur la page d'index mais uniquement lors de la consultation des catégories ou des auteurs.]]></phrase>
+  <phrase title="porta2_facebook_comments" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Commentaires Facebook]]></phrase>
+  <phrase title="porta2_files_associated_with_widget_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les fichiers associés à ce widget n'ont pu être trouvés. Veuillez les retéléverser]]></phrase>
+  <phrase title="porta2_files_necessary_uninstallation_widget_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les fichiers nécessaires à la désinstallation de ce widget n'ont pu être trouvés. Veuillez les retéléverser.]]></phrase>
+  <phrase title="porta2_filter_article_categories" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Filtrage des catégories d'articles]]></phrase>
+  <phrase title="porta2_filter_article_categories_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les articles appartenant à la catégorie sélectionnée seront <i><b>MASQUÉS</b></i> dans la page d'index des articles. Notez que si un article fait parti de catégories multiples, il sera uniquement masqué si vous avez filtré chacune des catégories auxquelles il apparatient. Notez encore que ces filtres seront inopérants lors de la consultation d'articles classés par catégories ou auteurs.]]></phrase>
+  <phrase title="porta2_hide_feature_slider" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Masquer la visionneuse des sujets valorisés]]></phrase>
+  <phrase title="porta2_hide_feature_slider_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Cette option supprimera la visionneuse de la page d'index des articles.]]></phrase>
+  <phrase title="porta2_hide_from_selected_usergroups" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Masquer uniquement pour les groupes d'utilisateurs sélectionnés]]></phrase>
+  <phrase title="porta2_home" addon_id="EWRporta2" global_cache="1" version_id="0" version_string="1.0.0"><![CDATA[Accueil]]></phrase>
+  <phrase title="porta2_icon" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Icône]]></phrase>
+  <phrase title="porta2_icon_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'icône de l'article est affichée à côté de l'extrait.]]></phrase>
+  <phrase title="porta2_inactive_authors" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Auteurs inactifs]]></phrase>
+  <phrase title="porta2_inactive_authors_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les auteurs suivants ne sont plus actifs.]]></phrase>
+  <phrase title="porta2_index" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Index]]></phrase>
+  <phrase title="porta2_install_new_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Installer un nouveau widget]]></phrase>
+  <phrase title="porta2_install_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Installer un widget]]></phrase>
+  <phrase title="porta2_installed_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widgets installés]]></phrase>
+  <phrase title="porta2_installed_widopts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Jeux d'options installés]]></phrase>
+  <phrase title="porta2_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mise en page]]></phrase>
+  <phrase title="porta2_layout_id" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[ID de la mise en page]]></phrase>
+  <phrase title="porta2_layout_id_priority" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[ID de la mise en page : {layout}, Priorité: {order}]]></phrase>
+  <phrase title="porta2_layout_ids_must_be_unique" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'identifiant de la mise en page doit être unique, or celui que vous avez entré existe déjà.]]></phrase>
+  <phrase title="porta2_layout_is_active" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La mise en page est active]]></phrase>
+  <phrase title="porta2_layout_priority" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Priorité de mise en page]]></phrase>
+  <phrase title="porta2_layout_priority_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les éléments nœuds ne peuvent avoir qu'une mise en forme unique. Ce nombre fixe la priorité à laquelle la mise en page est sélectionnée.]]></phrase>
+  <phrase title="porta2_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mises en page]]></phrase>
+  <phrase title="porta2_local_comments" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Commentaires locaux]]></phrase>
+  <phrase title="porta2_lock_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widget verouillé]]></phrase>
+  <phrase title="porta2_lock_widget_arrangement" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Emplacement des widgets verrouillés]]></phrase>
+  <phrase title="porta2_lock_widget_arrangement_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si un widget est verrouillé, l'utilisateur ne pourra personnnalisé son emplacement.]]></phrase>
+  <phrase title="porta2_no_categories_have_been_installed_yet" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Aucune catégorie n'existe pour l'instant.]]></phrase>
+  <phrase title="porta2_no_layouts_have_been_installed_yet" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Aucune mise en page n'a été installée pour l'instant.]]></phrase>
+  <phrase title="porta2_no_widgets_have_been_installed_yet" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Aucun widget n'a été installé pour l'instant.]]></phrase>
+  <phrase title="porta2_no_widopts_have_been_installed_yet" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Aucun jeu d'options n'a été installé pour l'instant.]]></phrase>
+  <phrase title="porta2_parameters" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Paramètres]]></phrase>
+  <phrase title="porta2_pause_infinite_scrolling" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[== Interrompre le défilement continu ==]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_clear_following_widget_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de vider le cache de ce widget]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_clear_following_widopt_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de vider le cache de ce jeu d'options]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_delete_following_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de supprimer la catégorie suivante]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_delete_following_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de supprimer la mise en page suivante]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_delete_following_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de supprimer le widget suivant]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_delete_following_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de supprimer le lien de widget suivant]]></phrase>
+  <phrase title="porta2_please_confirm_that_you_want_to_delete_following_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Veuillez confirmer votre choix de supprimer le jeu d'options suivant]]></phrase>
+  <phrase title="porta2_promote_to_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Promouvoir l'article]]></phrase>
+  <phrase title="porta2_promote_to_article_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous serez automatiquement redirigé vers la page de promotion des articles.]]></phrase>
+  <phrase title="porta2_promote_to_feature" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Promouvoir comme contenu valorisé]]></phrase>
+  <phrase title="porta2_promotes_your_thread_into_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Promouvoir votre discussion]]></phrase>
+  <phrase title="porta2_promotes_your_thread_into_feature" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Valoriser votre discussion]]></phrase>
+  <phrase title="porta2_promotion" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Promotion]]></phrase>
+  <phrase title="porta2_protected_layout_can_not_be_edited" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Cette mise en page est protégée et ne peut être éditée ou supprimée.]]></phrase>
+  <phrase title="porta2_provided_file_is_not_a_widget_xml_file" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[The fichier sélectionné n'est pas un fichier XML widget.]]></phrase>
+  <phrase title="porta2_remove_existing_sidebar" addon_id="EWRporta2" version_id="3" version_string="1.0.3"><![CDATA[Supprimer la barre latérale existante]]></phrase>
+  <phrase title="porta2_remove_existing_sidebar_hint" addon_id="EWRporta2" version_id="3" version_string="1.0.3"><![CDATA[Si le template comporte une barre latérale, cette option la supprimera.]]></phrase>
+  <phrase title="porta2_requested_article_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'article demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_author_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'auteur demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_category_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La catégorie demandée n'a pu être trouvée.]]></phrase>
+  <phrase title="porta2_requested_catlink_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le lien de catégorie n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_feature_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le contenu valorisé demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_layout_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[La mise en page demandée n'a pu être trouvée.]]></phrase>
+  <phrase title="porta2_requested_option_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'option  demandé n'a pu être trouvée.]]></phrase>
+  <phrase title="porta2_requested_setting_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le paramètre demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_widget_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_widlink_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le lien de widget demandé n'a pu être trouvé.]]></phrase>
+  <phrase title="porta2_requested_widopt_not_found" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[L'option de widget demandée n'a pu être trouvée.]]></phrase>
+  <phrase title="porta2_resume_infinite_scrolling" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[>> Reprendre le défilement continu <<]]></phrase>
+  <phrase title="porta2_save_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder la categorie]]></phrase>
+  <phrase title="porta2_save_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder la mise en page]]></phrase>
+  <phrase title="porta2_save_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le widget]]></phrase>
+  <phrase title="porta2_save_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le lien widget]]></phrase>
+  <phrase title="porta2_save_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le jeu d'options]]></phrase>
+  <phrase title="porta2_settings" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Paramètres]]></phrase>
+  <phrase title="porta2_show_attach_gallery" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher le fichier joint de la gallerie]]></phrase>
+  <phrase title="porta2_show_author_byline" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher le bloc de signature de l'auteur]]></phrase>
+  <phrase title="porta2_show_hide_selected_usergroups_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget est soit visible, soit masqué, pour les groupes d'utilisateurs ci-dessous.]]></phrase>
+  <phrase title="porta2_show_hide_selected_usergroups_none" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si aucun groupe d'utilisateurs n'a été sélectionné, le widget sera affiché à tous les visiteurs.
+]]></phrase>
+  <phrase title="porta2_show_hide_usergroups" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher le type]]></phrase>
+  <phrase title="porta2_show_to_selected_usergroups" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher les groupes d'utilisateurs sélectionnés]]></phrase>
+  <phrase title="porta2_slider_image" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Image de la visionneuse]]></phrase>
+  <phrase title="porta2_slider_image_fail" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Echec du téléversement et de la conversion de l'image de la visionneuse.]]></phrase>
+  <phrase title="porta2_slider_image_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les images seront redimmensionnées ainsi : {width}px (largeur) x {height}px (hauteur).]]></phrase>
+  <phrase title="porta2_someone_promotes_your_thread_into_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Votre discussion a été promue en article]]></phrase>
+  <phrase title="porta2_someone_promotes_your_thread_into_feature" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Votre discussion a été promue en contenu valorisé]]></phrase>
+  <phrase title="porta2_specified_widget_does_not_match_widget_you_chose_to_upgrade" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget en cours de traitement ne correspond pas au widget que vous avez choisi de mettre à jour.]]></phrase>
+  <phrase title="porta2_specified_widget_is_already_installed" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget en cours de traitement est déjà installé. Veuillez utiliser la page de mise à jour pour procéder à une mise à niveau.]]></phrase>
+  <phrase title="porta2_specified_widget_is_older_than_install_version" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget en cours de traitement est plus ancien que celui installé. Unspecified widget is older than the install version. Le rétrogradage n'est pas possible.]]></phrase>
+  <phrase title="porta2_tag" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Tag]]></phrase>
+  <phrase title="porta2_tag_this_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Taguer cet article (chaque tag doit être séparé par une virgule)]]></phrase>
+  <phrase title="porta2_tag_this_article_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous n'avez pas la permission de créer des tags. Aussi si tag saisi ne correspond pas à un déjà prédéfini, ce dernier sera effacé.]]></phrase>
+  <phrase title="porta2_tagged_by_x" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Tagué par {name}]]></phrase>
+  <phrase title="porta2_tags" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Tags]]></phrase>
+  <phrase title="porta2_total_x_users_within_y_hours" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Total : {total} (membres des dernières {time} heures)]]></phrase>
+  <phrase title="porta2_type" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Type]]></phrase>
+  <phrase title="porta2_uninstall_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Désinstaller le widget]]></phrase>
+  <phrase title="porta2_upgrade_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mettre à jour le Widget]]></phrase>
+  <phrase title="porta2_use_custom_widlink_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser les options personnalisées du lien de widget]]></phrase>
+  <phrase title="porta2_use_default_global_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser les options globales par défaut]]></phrase>
+  <phrase title="porta2_use_default_widget_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Utiliser les options par défaut du widget]]></phrase>
+  <phrase title="porta2_user_record" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Registre utilisateur]]></phrase>
+  <phrase title="porta2_variable" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Variable]]></phrase>
+  <phrase title="porta2_viewing_articles_index" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Consulte l'index des articles]]></phrase>
+  <phrase title="porta2_viewing_only_articles_authored_by_x" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Consulte les articles de {author}.]]></phrase>
+  <phrase title="porta2_viewing_only_articles_tagged_with_x" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Consulte les articles avec le tag "{tag}".]]></phrase>
+  <phrase title="porta2_viewing_widget_extension" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Consulte l'extension d'un widget]]></phrase>
+  <phrase title="porta2_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widget]]></phrase>
+  <phrase title="porta2_widget_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Cache du widget]]></phrase>
+  <phrase title="porta2_widget_id_version_id" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[ID du widget : {widget_id}, ID de version : {version_id}]]></phrase>
+  <phrase title="porta2_widget_ids_must_be_unique" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les identifiants du widget doivent être uniques. L'identifiant spécifié existe déjà.]]></phrase>
+  <phrase title="porta2_widget_is_active" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le widget est actif]]></phrase>
+  <phrase title="porta2_widget_xml_does_not_specify_valid_widget_id_and_cannot_be_installed" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Le XML du widget ne comporte pas d'identifiant valide et ne peut donc être installé.]]></phrase>
+  <phrase title="porta2_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widgets]]></phrase>
+  <phrase title="porta2_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Lien de widget]]></phrase>
+  <phrase title="porta2_widlink_options_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Vous pouvez choisir d'utiliser des paramètres personnalisés pour ce lien de widget au lieu d'utiliser celles par défaut.]]></phrase>
+  <phrase title="porta2_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Jeu d'options]]></phrase>
+  <phrase title="porta2_widopts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Jeux d'options]]></phrase>
+  <phrase title="porta2_your_thread_promoted_to_article" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Votre discussion {title}, a été promue en article.]]></phrase>
+  <phrase title="porta2_your_thread_promoted_to_feature" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Votre discussion {title}, a été promue en contenu valorisé.]]></phrase>
+</language>
