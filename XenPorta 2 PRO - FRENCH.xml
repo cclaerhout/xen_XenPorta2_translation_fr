@@ -85,7 +85,7 @@ Cette option doit être utilisée en connaissance de cause, ne l'utilisez pas si
   <phrase title="permission_group_EWRporta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
   <phrase title="permission_interface_EWRporta2" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[[8wayRun.Com] XenPorta 2 (Portail) PRO]]></phrase>
   <phrase title="porta2_add_new_author" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un nouvel auteur]]></phrase>
-  <phrase title="porta2_add_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un lien widget]]></phrase>
+  <phrase title="porta2_add_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un élément widget]]></phrase>
   <phrase title="porta2_add_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ajouter un jeu d'options]]></phrase>
   <phrase title="porta2_arrange_article_list_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Gestion des widgets des articles]]></phrase>
   <phrase title="porta2_arrange_article_list_widgets_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si vous activez cette option, vous pourrez personnaliser la mise en forme de la page d'index des articles en utilisant simplement l'interface glisser-déposer. Tous les widgets seront ou non déplaçables selon les choix effectués par notre équipe technique. En revanche, la zone principale de contenu restera quant à elle fixe.]]></phrase>
@@ -254,7 +254,7 @@ De même pour les expressions maitresses ainsi que les observateurs d'événemen
   <phrase title="porta2_save_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder la categorie]]></phrase>
   <phrase title="porta2_save_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder la mise en page]]></phrase>
   <phrase title="porta2_save_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le widget]]></phrase>
-  <phrase title="porta2_save_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le lien widget]]></phrase>
+  <phrase title="porta2_save_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder l'élément widget]]></phrase>
   <phrase title="porta2_save_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Sauvegarder le jeu d'options]]></phrase>
   <phrase title="porta2_settings" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Paramètres]]></phrase>
   <phrase title="porta2_show_attach_gallery" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher le fichier joint de la gallerie]]></phrase>
