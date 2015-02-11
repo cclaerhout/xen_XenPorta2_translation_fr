@@ -5,7 +5,7 @@
   <phrase title="admin_navigation_porta2_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mise en page]]></phrase>
   <phrase title="admin_navigation_porta2_options" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Options]]></phrase>
   <phrase title="admin_navigation_porta2_widgets" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Widgets]]></phrase>
-  <phrase title="admin_navigation_porta2_widopts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[- Série d'options]]></phrase>
+  <phrase title="admin_navigation_porta2_widopts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[- Jeux d'options]]></phrase>
   <phrase title="option_EWRporta2_articles_dateblock" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Afficher la date à proximité de l'extrait]]></phrase>
   <phrase title="option_EWRporta2_articles_dateblock_explain" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Si activé, un petit bloc avec la date sera affiché à proximité de l'extrait de l'article.]]></phrase>
   <phrase title="option_EWRporta2_articles_excerpt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Couper l'extrait]]></phrase>
@@ -138,7 +138,7 @@ De même pour les expressions maitresses ainsi que les observateurs d'événemen
   <phrase title="porta2_create_new_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un nouveau widget]]></phrase>
   <phrase title="porta2_create_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un widget]]></phrase>
   <phrase title="porta2_create_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Créer un jeu d'options]]></phrase>
-  <phrase title="porta2_customized_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mise en page personnalisées]]></phrase>
+  <phrase title="porta2_customized_layouts" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Mises en page personnalisées]]></phrase>
   <phrase title="porta2_date_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Les articles sont triés par date de promotion. Les articles peuvent être post-datés.]]></phrase>
   <phrase title="porta2_default_icon" addon_id="EWRporta2" version_id="7" version_string="1.0.7"><![CDATA[Icône par défaut]]></phrase>
   <phrase title="porta2_delete_article_promotion" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Supprimer la promotion de l'article]]></phrase>
