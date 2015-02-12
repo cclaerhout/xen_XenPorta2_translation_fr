@@ -116,8 +116,8 @@ De même pour les expressions maitresses ainsi que les observateurs d'événemen
   <phrase title="porta2_break" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Texte de césure]]></phrase>
   <phrase title="porta2_break_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Ce texte de césure est optionnel et n'est pas visible dans l'article.]]></phrase>
   <phrase title="porta2_break_text_default" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Lire la suite]]></phrase>
-  <phrase title="porta2_by_x_on_y" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Par {name} le {date}]]></phrase>
-  <phrase title="porta2_by_x_on_y_at_z" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[par {user} : le {date} à {time}]]></phrase>
+  <phrase title="porta2_by_x_on_y" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[{name} - {date}]]></phrase>
+  <phrase title="porta2_by_x_on_y_at_z" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[<span class="user">Par {user}</span><span class="DateTime">, <span class="date">{date}</span><span class="time"> à {time}</span></span>]]></phrase>
   <phrase title="porta2_category" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Categorie]]></phrase>
   <phrase title="porta2_change_article_list_settings" addon_id="EWRporta2" version_id="6" version_string="1.0.6"><![CDATA[Modifier les paramètres de la liste d'articles]]></phrase>
   <phrase title="porta2_clear_widget_cache" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le cache des widgets]]></phrase>
