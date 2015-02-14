@@ -150,7 +150,7 @@ De même pour les expressions maitresses ainsi que les observateurs d'événemen
   <phrase title="porta2_delete_feature_promotion_hint" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Êtes-vous certain de vouloir supprimer la promotion de ce contenu valorisé ?]]></phrase>
   <phrase title="porta2_delete_layout" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer la mise en page]]></phrase>
   <phrase title="porta2_delete_widget" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le widget]]></phrase>
-  <phrase title="porta2_delete_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le lien de widget]]></phrase>
+  <phrase title="porta2_delete_widlink" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer l'élement widget]]></phrase>
   <phrase title="porta2_delete_widopt" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Effacer le jeu d'options]]></phrase>
   <phrase title="porta2_disable_icon" addon_id="EWRporta2" version_id="0" version_string="1.0.0"><![CDATA[Désactiver l'icône]]></phrase>
   <phrase title="porta2_disable_infinite_scroll" addon_id="EWRporta2" version_id="2" version_string="1.0.2"><![CDATA[Désactiver le défilement continu]]></phrase>
